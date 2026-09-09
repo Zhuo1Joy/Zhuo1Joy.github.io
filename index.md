@@ -1,5 +1,6 @@
 ---
-layout: redirect
+layout: single
 permalink: /
-redirect_to: /about/
+author_profile: true
+title: "欢迎来到Zhuo1Joy的主页"
 ---
