@@ -20,7 +20,7 @@ repository        : "Zhuo1Joy/Zhuo1Joy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Kobayashi.png"
+  avatar           : "https://zhuo1joy.github.io/images/Kobayashi.png"
   name             : "卓滢"
   bio              : "做仰卧起坐的咸鱼"
   location         : "福建福州"
