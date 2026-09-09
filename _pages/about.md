@@ -1,3 +1,10 @@
+---
+title: "About"
+permalink: /about/
+layout: single
+author_profile: true
+---
+
 # 自我介绍
   
 你好👋 我是福州大学计算机科学与技术专业的一名普通的大三学生
