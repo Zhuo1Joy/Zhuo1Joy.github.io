@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "欢迎来到Zhuo1Joy的主页"
 permalink: /about/
 layout: single
 author_profile: true
