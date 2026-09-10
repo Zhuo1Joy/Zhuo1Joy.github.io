@@ -1,6 +1,5 @@
 ---
 layout: single
 permalink: /
-author_profile: true
-title: "欢迎来到Zhuo1Joy的主页"
 ---
+<meta http-equiv="refresh" content="0; url=/about/">
